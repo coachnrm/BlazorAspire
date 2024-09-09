@@ -1,0 +1,12 @@
+/Users/home/Desktop/Blazor/Blazor.ServiceDefaults/bin/Debug/net8.0/Blazor.ServiceDefaults.deps.json
+/Users/home/Desktop/Blazor/Blazor.ServiceDefaults/bin/Debug/net8.0/Blazor.ServiceDefaults.dll
+/Users/home/Desktop/Blazor/Blazor.ServiceDefaults/bin/Debug/net8.0/Blazor.ServiceDefaults.pdb
+/Users/home/Desktop/Blazor/Blazor.ServiceDefaults/obj/Debug/net8.0/Blazor.ServiceDefaults.csproj.AssemblyReference.cache
+/Users/home/Desktop/Blazor/Blazor.ServiceDefaults/obj/Debug/net8.0/Blazor.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Desktop/Blazor/Blazor.ServiceDefaults/obj/Debug/net8.0/Blazor.ServiceDefaults.AssemblyInfoInputs.cache
+/Users/home/Desktop/Blazor/Blazor.ServiceDefaults/obj/Debug/net8.0/Blazor.ServiceDefaults.AssemblyInfo.cs
+/Users/home/Desktop/Blazor/Blazor.ServiceDefaults/obj/Debug/net8.0/Blazor.ServiceDefaults.csproj.CoreCompileInputs.cache
+/Users/home/Desktop/Blazor/Blazor.ServiceDefaults/obj/Debug/net8.0/Blazor.ServiceDefaults.dll
+/Users/home/Desktop/Blazor/Blazor.ServiceDefaults/obj/Debug/net8.0/refint/Blazor.ServiceDefaults.dll
+/Users/home/Desktop/Blazor/Blazor.ServiceDefaults/obj/Debug/net8.0/Blazor.ServiceDefaults.pdb
+/Users/home/Desktop/Blazor/Blazor.ServiceDefaults/obj/Debug/net8.0/ref/Blazor.ServiceDefaults.dll

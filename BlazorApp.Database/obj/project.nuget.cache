@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "XkdVVS5Of/r14Y7lG8EV3ZaiocngYQ8wHcjKaezVQpYUOnuYC6pOzyfH4WYtXqJFp1gD/Gdci23ovmY4VS3Ngg==",
+  "success": true,
+  "projectFilePath": "/Users/home/Desktop/Blazor/BlazorApp.Database/BlazorApp.Database.csproj",
+  "expectedPackageFiles": [
+    "/Users/home/.nuget/packages/microsoft.entityframeworkcore/8.0.8/microsoft.entityframeworkcore.8.0.8.nupkg.sha512",
+    "/Users/home/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.8/microsoft.entityframeworkcore.abstractions.8.0.8.nupkg.sha512",
+    "/Users/home/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.8/microsoft.entityframeworkcore.analyzers.8.0.8.nupkg.sha512",
+    "/Users/home/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "/Users/home/.nuget/packages/microsoft.extensions.caching.memory/8.0.0/microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "/Users/home/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/home/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/home/.nuget/packages/microsoft.extensions.logging/8.0.0/microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "/Users/home/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/home/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/Users/home/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
