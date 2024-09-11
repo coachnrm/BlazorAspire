@@ -64,3 +64,4 @@
 /Users/home/Desktop/Blazor/Blazor.Web/obj/Debug/net8.0/Blazor.Web.pdb
 /Users/home/Desktop/Blazor/Blazor.Web/obj/Debug/net8.0/Blazor.Web.genruntimeconfig.cache
 /Users/home/Desktop/Blazor/Blazor.Web/obj/Debug/net8.0/ref/Blazor.Web.dll
+/Users/home/Desktop/Blazor/Blazor.Web/obj/Debug/net8.0/Blazor.Web.sourcelink.json

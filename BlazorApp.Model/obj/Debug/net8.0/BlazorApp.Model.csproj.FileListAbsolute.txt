@@ -1,0 +1,12 @@
+/Users/home/Desktop/Blazor/BlazorApp.Model/bin/Debug/net8.0/BlazorApp.Model.deps.json
+/Users/home/Desktop/Blazor/BlazorApp.Model/bin/Debug/net8.0/BlazorApp.Model.dll
+/Users/home/Desktop/Blazor/BlazorApp.Model/bin/Debug/net8.0/BlazorApp.Model.pdb
+/Users/home/Desktop/Blazor/BlazorApp.Model/obj/Debug/net8.0/BlazorApp.Model.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Desktop/Blazor/BlazorApp.Model/obj/Debug/net8.0/BlazorApp.Model.AssemblyInfoInputs.cache
+/Users/home/Desktop/Blazor/BlazorApp.Model/obj/Debug/net8.0/BlazorApp.Model.AssemblyInfo.cs
+/Users/home/Desktop/Blazor/BlazorApp.Model/obj/Debug/net8.0/BlazorApp.Model.csproj.CoreCompileInputs.cache
+/Users/home/Desktop/Blazor/BlazorApp.Model/obj/Debug/net8.0/BlazorApp.Model.sourcelink.json
+/Users/home/Desktop/Blazor/BlazorApp.Model/obj/Debug/net8.0/BlazorApp.Model.dll
+/Users/home/Desktop/Blazor/BlazorApp.Model/obj/Debug/net8.0/refint/BlazorApp.Model.dll
+/Users/home/Desktop/Blazor/BlazorApp.Model/obj/Debug/net8.0/BlazorApp.Model.pdb
+/Users/home/Desktop/Blazor/BlazorApp.Model/obj/Debug/net8.0/ref/BlazorApp.Model.dll

@@ -10,3 +10,4 @@
 /Users/home/Desktop/Blazor/Blazor.ServiceDefaults/obj/Debug/net8.0/refint/Blazor.ServiceDefaults.dll
 /Users/home/Desktop/Blazor/Blazor.ServiceDefaults/obj/Debug/net8.0/Blazor.ServiceDefaults.pdb
 /Users/home/Desktop/Blazor/Blazor.ServiceDefaults/obj/Debug/net8.0/ref/Blazor.ServiceDefaults.dll
+/Users/home/Desktop/Blazor/Blazor.ServiceDefaults/obj/Debug/net8.0/Blazor.ServiceDefaults.sourcelink.json

@@ -10,9 +10,19 @@
     <ProjectReference Include="..\Blazor.ServiceDefaults\Blazor.ServiceDefaults.csproj" />
     <ProjectReference Include="..\BlazorApp.BL\BlazorApp.BL.csproj" />
     <ProjectReference Include="..\BlazorApp.Model\BlazorApp.Model.csproj" />
+    <ProjectReference Include="..\BlazorApp.Database\BlazorApp.Database.csproj" />
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.8">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.8">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
     <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.7.3" />
     <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.7.3" />
   </ItemGroup>

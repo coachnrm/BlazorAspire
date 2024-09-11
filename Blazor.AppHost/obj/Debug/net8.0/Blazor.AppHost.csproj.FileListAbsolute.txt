@@ -54,3 +54,4 @@
 /Users/home/Desktop/Blazor/Blazor.AppHost/obj/Debug/net8.0/Blazor.AppHost.pdb
 /Users/home/Desktop/Blazor/Blazor.AppHost/obj/Debug/net8.0/Blazor.AppHost.genruntimeconfig.cache
 /Users/home/Desktop/Blazor/Blazor.AppHost/obj/Debug/net8.0/ref/Blazor.AppHost.dll
+/Users/home/Desktop/Blazor/Blazor.AppHost/obj/Debug/net8.0/Blazor.AppHost.sourcelink.json

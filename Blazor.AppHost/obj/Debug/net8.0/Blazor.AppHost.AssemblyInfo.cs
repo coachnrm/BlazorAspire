@@ -22,7 +22,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Blazor.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+472133282846c6d5dfc36f1a3332ffb458a252ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("Blazor.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Blazor.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
